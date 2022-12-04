@@ -12,3 +12,4 @@ Pillow==8.2.0
 pywin32==227
 tqdm==4.61.1
 Werkzeug==2.0.1
+img==1.5.33
